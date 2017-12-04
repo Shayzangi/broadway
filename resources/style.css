@@ -6,11 +6,16 @@ ul{
   list-style-type: none;
   font-size: 18px;
   color: white;
+  padding-left: 0px;
 }
 h1{
   font-size: 70px;
   font-weight: bold;
   color: white;
+}
+h2{
+  font-size: 32;
+  font-weight:bold;
 }
 .background {
   background-image: url("../resources/images/bck.png");
