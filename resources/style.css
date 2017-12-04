@@ -14,11 +14,19 @@ h1{
   color: white;
 }
 h2{
-  font-size: 32;
+  font-size: 32px;
   font-weight:bold;
+}
+h3{
+  font-size: 23px;
+  font-weight:bold;
+}
+p{
+  font-size: 14px;
 }
 .background {
   background-image: url("../resources/images/bck.png");
+  color: white;
 }
 .header li {
   margin-bottom: 10px;
