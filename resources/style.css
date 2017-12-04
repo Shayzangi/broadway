@@ -34,3 +34,16 @@ p{
 .header a{
   color: white;
 }
+.footer a{
+  color: white;
+}
+.footer{
+  background-color: dimgray;
+  text-align: left;
+}
+.footer nav {
+  text-align: left;
+}
+.footer span{
+  font-size: 11px;
+}
